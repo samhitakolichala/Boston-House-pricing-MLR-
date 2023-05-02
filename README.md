@@ -2,7 +2,8 @@
  
 This dataset contains information on the median value of owner-occupied homes in various neighborhoods in Boston, MA. The dataset was originally published in 1978 and has been used extensively in regression analysis since then.
 
-Dataset
+**Dataset Description**
+
 The Boston House Pricing dataset contains 506 observations with 14 attributes. Each observation represents a different neighborhood in Boston, and each attribute provides information on various aspects of the neighborhood or the houses within it.
 
 The attributes are as follows:
@@ -26,7 +27,7 @@ MEDV: median value of owner-occupied homes in $1000s.
 This dataset is considered to be a "clean" dataset, meaning that it has already been preprocessed and cleaned . Therefore, there is no need to perform any additional data cleaning on this dataset. However, it may be useful to standardize or normalize the data before using it in certain machine learning algorithms.
 
 **Usage**
-The Boston House Pricing dataset is commonly used as a benchmark dataset for regression analysis and machine learning algorithms. It can be used to develop and evaluate algorithms for predicting the median value of owner-occupied homes based on the other attributes in the dataset.
+The Boston House Pricing dataset is commonly used as a benchmark dataset for regression analysis and machine learning algorithms. It can be used to develop and evaluate algorithms for predicting the median value of owner-occupied homes based on the other attributes in the dataset.I used Linear Regression,Random Forest Regressor,XGB boost regressor,Gradient boost Regressor models are used amongst which 'Linear Regression' performed well.
 
 **Acknowledgements**
 
