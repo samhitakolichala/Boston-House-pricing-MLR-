@@ -31,3 +31,13 @@ The Boston House Pricing dataset is commonly used as a benchmark dataset for reg
 **Acknowledgements**
 
 This dataset can be found in the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/housing). The dataset is also included in the Scikit-Learn library in Python.
+
+**Quick Glance**
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/119112861/235596402-ace7d106-d6df-4538-a51a-f2a072a47a92.png">
+
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/119112861/235596538-18250907-9291-45d5-8a42-826621aa70ed.png">
+
+<img width="340" alt="image" src="https://user-images.githubusercontent.com/119112861/235596601-1a97137e-d978-4821-a48b-7b76bfdba69b.png">
+
+
