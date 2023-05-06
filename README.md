@@ -24,10 +24,10 @@ LSTAT: % lower status of the population.
 MEDV: median value of owner-occupied homes in $1000s.
 
 **Data Cleaning**
-This dataset is considered to be a "clean" dataset, meaning that it has already been preprocessed and cleaned . Therefore, there is no need to perform any additional data cleaning on this dataset. However, it may be useful to standardize or normalize the data before using it in certain machine learning algorithms.
+This dataset is considered to be a "clean" dataset, meaning that it has already been preprocessed and cleaned . 
 
-**Usage**
-The Boston House Pricing dataset is commonly used as a benchmark dataset for regression analysis and machine learning algorithms. It can be used to develop and evaluate algorithms for predicting the median value of owner-occupied homes based on the other attributes in the dataset.I used Linear Regression,Random Forest Regressor,XGB boost regressor,Gradient boost Regressor models are used amongst which 'Linear Regression' performed well.
+**Explanation**
+The data was splitted into 80 and 20 ratio for training and test set. Performed square root transformation for all the independdent features, I used Linear Regression,Random Forest Regressor,XGB boost regressor,Gradient boost Regressor models are used amongst which 'Linear Regression' performed well.
 
 **Acknowledgements**
 
@@ -35,10 +35,11 @@ This dataset can be found in the UCI Machine Learning Repository (https://archiv
 
 **Quick Glance**
 
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/119112861/235596402-ace7d106-d6df-4538-a51a-f2a072a47a92.png">
+<img width="441" alt="image" src="https://user-images.githubusercontent.com/119112861/236607704-7cfa4755-2838-4267-b82b-58e25c189303.png">
 
-<img width="486" alt="image" src="https://user-images.githubusercontent.com/119112861/235596538-18250907-9291-45d5-8a42-826621aa70ed.png">
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/119112861/236607658-26801e97-ce15-48b7-bf54-573b5555b18e.png">
 
-<img width="340" alt="image" src="https://user-images.githubusercontent.com/119112861/235596601-1a97137e-d978-4821-a48b-7b76bfdba69b.png">
+<img width="394" alt="image" src="https://user-images.githubusercontent.com/119112861/236607682-eb8933a1-b107-4bec-a118-25796ed37126.png">
 
+<img width="299" alt="image" src="https://user-images.githubusercontent.com/119112861/236607636-153a61ed-5404-4b4a-ae13-cc32e4127291.png">
 
