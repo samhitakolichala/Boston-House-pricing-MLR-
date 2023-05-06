@@ -27,7 +27,7 @@ MEDV: median value of owner-occupied homes in $1000s.
 This dataset is considered to be a "clean" dataset, meaning that it has already been preprocessed and cleaned . 
 
 **Explanation**
-The data was splitted into 80 and 20 ratio for training and test set. Performed square root transformation for all the independdent features, I used Linear Regression,Random Forest Regressor,XGB boost regressor,Gradient boost Regressor models are used amongst which 'Linear Regression' performed well.
+The data was splitted into 80 and 20 ratio for training and test set. Performed square root transformation for all the independent features, I used Linear Regression,Random Forest Regressor,XGB boost regressor,Gradient boost Regressor models amongst which 'Gradient Boost Regressor' performed well,as its 'RMSE' is same on training and testing data which indicates that the model is performing similarly well on both sets of data. This suggests that the model is likely a good fit for the problem at hand, as it is able to capture the underlying patterns in the data without overfitting to the training data.
 
 **Acknowledgements**
 
