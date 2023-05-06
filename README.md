@@ -37,9 +37,10 @@ This dataset can be found in the UCI Machine Learning Repository (https://archiv
 
 <img width="441" alt="image" src="https://user-images.githubusercontent.com/119112861/236607704-7cfa4755-2838-4267-b82b-58e25c189303.png">
 
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/119112861/236607658-26801e97-ce15-48b7-bf54-573b5555b18e.png">
+<img width="390" alt="image" src="https://user-images.githubusercontent.com/119112861/236609131-a009de43-fe2a-47ca-9ace-57956bb6a2c8.png">
 
-<img width="394" alt="image" src="https://user-images.githubusercontent.com/119112861/236607682-eb8933a1-b107-4bec-a118-25796ed37126.png">
+<img width="397" alt="image" src="https://user-images.githubusercontent.com/119112861/236609117-b83afd0f-862b-4511-8d07-29ece64a9e8a.png">
 
-<img width="299" alt="image" src="https://user-images.githubusercontent.com/119112861/236607636-153a61ed-5404-4b4a-ae13-cc32e4127291.png">
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/119112861/236609101-43eb36b2-ee93-43bf-9136-2b7355c3dbbc.png">
+
 
